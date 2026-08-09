@@ -1,0 +1,4 @@
+interface:
+  display_name: "小白出行规划管家"
+  short_description: "为小白补全机票、路线、住宿、用车、预约、预算与风险预案"
+  default_prompt: "使用 $travel-planner 帮我从零规划一次旅行，并生成可执行的逐日行程和出发前检查清单。"
